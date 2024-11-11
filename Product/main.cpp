@@ -12,6 +12,8 @@ void access_granted(HWND rootWindow){
 
 int main(){
 
+    //I tried to enable the application with x64dbg.
+
     HWND rootWindow = GetConsoleWindow();
 
     cout << "Product Key: ";
@@ -27,4 +29,4 @@ int main(){
     }
     
     return 0;
-}
+}1
