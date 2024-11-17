@@ -41,7 +41,7 @@ int main(){
         cout << "You won:)" << endl;
     }
     else{
-        cout << "You lose! Now deleting files..." << endl;
+        cout << "You lose! See you later..." << endl;
         seeyouLater();
     }
 
